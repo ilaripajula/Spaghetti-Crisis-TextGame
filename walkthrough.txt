@@ -1,0 +1,15 @@
+
+
+The game is won by combining the three necessary ingredients "börk-börk ost", "snellman's minced meat", and "barilla spaghetti" (found from each of the aisles in Alepa)
+with the 'use pot' command in the kitchen (pot found in kitchen).
+
+It will be necesary to use the slot machine to generate enough cash to buy these ingredients (using for example the command 'bet 5' to bet 5 euros), once you have all 
+your ingredients and enough money, you can use command 'pay' to pay for all the food. It should be extremely hard to lose all your money by gambling, although it may 
+take a few tries to win sometimes.
+
+There is also a shopping list in the kitchen to guide the player, but this is optional to collect.
+It is enough that the player has the required ingredients, having extra ingredients does not matter.
+
+Thank you and have fun :) ,
+Ilari Pajula
+
